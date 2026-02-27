@@ -166,22 +166,16 @@ Combines sparse and dense retrieval to achieve:
 
 ---
 
-🔮 Future Enhancements
+### ⚡ Core System Capabilities Enabled
+- Hybrid Semantic + Lexical Search
+- Context-Aware Prompt Engineering
+- Hallucination Reduction via Retrieval Grounding
+- Persistent Knowledge Indexing
+- Multi-Document Query Handling
+- GPU-free Local Deployment
 
-Cross-encoder re-ranking
+## 👩‍💻 Author
 
-Conversational memory per document
-
-OCR for scanned PDFs
-
-Source citation highlighting
-
-Docker containerization
-
-Cloud deployment integration
-
-👩‍💻 Author
-
-Abhinaya Nalivela
+- Abhinaya Nalivela
 Computer Science Student | AI Enthusiast
 
